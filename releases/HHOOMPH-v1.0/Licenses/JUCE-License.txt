@@ -1,0 +1,24 @@
+JUCE Framework License
+================================================================================
+
+HHOOMPH uses the JUCE Framework (https://juce.com)
+
+This plugin is distributed under the JUCE Personal License, which allows:
+- Free distribution of applications
+- For projects with revenue under $50,000 USD per year
+- Closed-source distribution permitted
+
+JUCE is copyright © 2022 Raw Material Software Limited.
+
+For full JUCE license terms, visit:
+https://juce.com/juce-7-licence/
+
+JUCE Personal License Summary:
+- Free for personal and commercial use (under $50k/year revenue)
+- Can distribute binaries without making source code available
+- Must comply with JUCE Personal License terms
+
+If this plugin generates revenue exceeding $50,000/year, the developer must
+upgrade to a JUCE Indie or Pro license.
+
+================================================================================

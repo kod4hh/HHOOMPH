@@ -1,0 +1,9 @@
+# build artifacts
+build*/
+bin/
+
+# IDE settings
+.vscode/
+.idea/
+
+.DS_Store
